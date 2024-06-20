@@ -1,0 +1,343 @@
+/* Estilos gerais */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Barra de navegação */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: justify;
+    padding: 10px 20px;
+    background-color: #1c1c1c;
+    border-bottom: 1px solid #00ffcc;
+    flex-wrap: wrap; /* Adicionado para permitir a quebra em telas menores */
+}
+
+.logo {
+    font-size: 20px;
+    color: #00ffcc;
+    font-weight: bold;
+    text-transform: uppercase;
+    flex: 1; /* Adicionado para alinhar a logo à esquerda */
+}
+
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex: 2; /* Adicionado para alinhar os links à direita */
+    justify-content: flex-end; /* Adicionado para alinhar os links à direita */
+    flex-wrap: wrap; /* Adicionado para permitir a quebra em telas menores */
+}
+
+.nav-links li {
+    margin-left: 20px;
+    
+}
+
+.nav-links a {
+    color: #e0e0e0;
+    text-decoration: none;
+    position: relative;
+    transition: color 0.3s;
+
+}
+
+.nav-links a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #00ffcc;
+    transition: width 0.3s;
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+}
+
+.nav-links a:hover::after, .nav-links a:focus::after {
+    width: 100%;
+}
+
+.nav-links a:hover, .nav-links a:focus {
+    color: #00ffcc;
+    outline: none;
+}
+
+/* Seções */
+.section {
+    padding: 40px;
+    background-color: #1a1a1a;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 255, 204, 0.2);
+}
+
+/* Perfil */
+.profile-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #00ffcc;
+    transition: transform 0.3s;
+
+}
+
+.profile-pic:hover {
+    transform: scale(1.1);
+}
+
+.profile-container h1 {
+    color: #00ffcc;
+    margin-top: 10px;
+    font-size: 2em;
+}
+
+/* Botão de download */
+.button {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    border: none;
+    background: none;
+    color: #0f1923;
+    cursor: pointer;
+    position: relative;
+    padding: 8px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    transition: all .15s ease;
+  }
+  
+  .button::before,
+  .button::after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 0;
+    left: 0;
+    height: calc(50% - 5px);
+    border: 1px solid #7D8082;
+    transition: all .15s ease;
+  }
+  
+  .button::before {
+    top: 0;
+    border-bottom-width: 0;
+  }
+  
+  .button::after {
+    bottom: 0;
+    border-top-width: 0;
+  }
+  
+  .button:active,
+  .button:focus {
+    outline: none;
+  }
+  
+  .button:active::before,
+  .button:active::after {
+    right: 3px;
+    left: 3px;
+  }
+  
+  .button:active::before {
+    top: 3px;
+  }
+  
+  .button:active::after {
+    bottom: 3px;
+  }
+  
+  .button_lg {
+    position: relative;
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #0f1923;
+    overflow: hidden;
+    box-shadow: inset 0px 0px 0px 1px transparent;
+  }
+  
+  .button_lg::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px;
+    height: 2px;
+    background-color: #0f1923;
+  }
+  
+  .button_lg::after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 4px;
+    height: 4px;
+    background-color: #0f1923;
+    transition: all .2s ease;
+  }
+  
+  .button_sl {
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: -1px;
+    left: -8px;
+    width: 0;
+    background-color: #00ffcc;
+    transform: skew(-15deg);
+    transition: all .2s ease;
+  }
+  
+  .button_text {
+    position: relative;
+  }
+  
+  .button:hover {
+    color: #0f1923;
+  }
+  
+  .button:hover .button_sl {
+    width: calc(100% + 15px);
+  }
+  
+  .button:hover .button_lg::after {
+    background-color: #fff;
+  }
+  
+/* Redes socialis */
+
+
+
+/* Experiências Profissionais */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card {
+    background-color: #1c1c1c;
+    border: 2px solid #00ffcc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 255, 204, 0.2);
+    transition: transform 0.3s;
+}
+
+.card h3 {
+    margin-top: 0;
+    color: #00ffcc;
+}
+
+.card p {
+    margin: 10px 0;
+}
+
+.card span {
+    color: #e0e0e0;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Formulário de contato */
+form {
+    display: flex ;
+    flex-direction: column;
+}
+
+form label {
+    margin-top: 20px;
+    color: #00ffcc;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-top: 5px;
+    background-color: #1c1c1c;
+    border: 1px solid #00ffcc;
+    color: #e0e0e0;
+    border-radius: 5px;
+    transition: border-color 0.3s;
+}
+
+form input:focus, form textarea:focus {
+    border-color: #00ffcc;
+    outline: none;
+}
+
+form button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #00ffcc;
+    color: #121212;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #1c1c1c;
+    color: #00ffcc;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1c1c1c;
+    border-top: 2px solid #00ffcc;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #ffffff;
+}
+
+/* Estilos responsivos */
+@media (max-width: 600px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav-links {
+        padding: 0;
+        width: 100%;
+    }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+
+    .nav-links a {
+        padding: 10px;
+        display: block;
+        width: 100%;
+    }
+}
