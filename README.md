@@ -1,67 +1,96 @@
 <h1 align="center">Olá, eu sou o Allan! 👋</h1>
 
 <p align="center">
-  💻 Estudante de Sistemas de Informação | Desenvolvedor em formação
+  💻 Estudante de Sistemas de Informação | Front-end • Segurança • Dados
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou apaixonado por tecnologia, com foco em desenvolvimento **Front-end** e automação com **Python**.  
-Gosto de criar interfaces modernas, funcionais e explorar soluções que resolvam problemas reais.
+Sou estudante de Sistemas de Informação apaixonado por tecnologia, com foco em **desenvolvimento Front-end**, **segurança da informação** e **dados**.
 
-Atualmente, estou em constante evolução na área de TI, buscando aprender novas tecnologias e melhorar minhas habilidades práticas.
+Tenho interesse em criar interfaces modernas, entender como sistemas funcionam por trás das telas e explorar vulnerabilidades e boas práticas de segurança.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Ferramentas |
-| :--- | :--- |
-| **Front-end** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
-| **Back-end** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white) |
-| **OS & Workflow** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-00AEEF?style=flat&logo=linux&logoColor=white) |
-| **Interesses** | ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat&logo=godot-engine&logoColor=blue) ![Bioeconomy](https://img.shields.io/badge/Bioeconomia-4CAF50?style=flat&logo=leaf&logoColor=white) |
-
----
-
-## 🚀 Atualmente
-
-- 🎓 Sistemas de Informação - UFOPA  
-- 💻 Desenvolvimento de interfaces responsivas com HTML, CSS e JavaScript  
-- 🐍 Automação de tarefas com Python  
-- 🔐 Fundamentos de Redes e Segurança da Informação  
-- 🎮 Desenvolvimento de jogos com Godot (iniciante)  
-
----
-
-## 📂 Projetos em Destaque
-
-> *(Adicione seus projetos aqui — isso é MUITO importante)*
-
-- 🔗 [Nome do Projeto](#)
-  - Descrição do que o projeto faz
-  - Tecnologias utilizadas: HTML, CSS, JS
-
-- 🔗 [Automação com Python](#)
-  - Script para automatizar tarefas do dia a dia
-  - Uso de bibliotecas Python
+💡 Meu diferencial é o uso diário de **Linux**, com forte personalização do ambiente e domínio prático de terminal.
 
 ---
 
 ## 🎯 Objetivo
 
-Busco oportunidades para atuar como **desenvolvedor front-end** ou **estagiário em TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
+Busco uma oportunidade de **estágio em TI**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+
+Também trabalho em projetos próprios para desenvolver minhas habilidades práticas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | HTML, CSS, JavaScript, React |
+| **Back-end** | Python |
+| **Dados** | Pandas |
+| **Banco de Dados** | SQL (conceitos) |
+| **Segurança & Redes** | Modelo OSI, Portas e Protocolos |
+| **Sistema Operacional** | Linux (uso diário, customização, terminal, SSH) |
+
+---
+
+## 🚀 Atualmente estudando
+
+- ⚛️ React para aplicações modernas  
+- 🛡️ Fundamentos de Cibersegurança  
+- 🐍 Python para automação e back-end  
+- 🌐 APIs e integração de sistemas  
+- 🧠 Estrutura de dados, algoritmos e POO  
+
+---
+
+## 📂 Projetos em desenvolvimento
+
+> ⚠️ Em constante evolução — organizando e subindo projetos no GitHub
+
+- 🧮 Calculadora web  
+- ⏰ Relógio digital com JavaScript  
+- 🎮 Jogo simples em HTML/CSS/JS  
+- 🌐 Portfólio pessoal (landing page)  
+
+📌 Próximos projetos planejados:
+- 🔐 Simulação de vulnerabilidades (segurança básica)
+- 📊 Projeto simples com dados (Python + Pandas)
+- 🌍 Consumo de API com interface em React
+
+---
+
+## 🐧 Linux & Terminal (Diferencial)
+
+- Uso Linux como sistema principal  
+- Experiência com terminal no dia a dia  
+- Gerenciamento de permissões e arquivos  
+- Acesso remoto via SSH  
+- Customização de ambiente (Hyprland)  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=allan-iury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-iury&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allan-iury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-iury&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=allan-iury&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Perfil de Aprendizado
+
+- 📚 Aprendizado contínuo (faculdade + cursos + prática)  
+- 🧠 Forte interesse em teoria e resolução de problemas  
+- ⏳ Dedicado diariamente à área de tecnologia  
 
 ---
 
@@ -78,12 +107,14 @@ Busco oportunidades para atuar como **desenvolvedor front-end** ou **estagiário
 
 ---
 
-## 📈 Evolução
+## 🚀 Em evolução
 
-- 📚 Sempre aprendendo algo novo  
-- 🧠 Focado em evolução contínua  
-- 🚀 Em busca do primeiro estágio na área de TI  
+Atualmente focado em evoluir minhas habilidades em programação, com interesse especial em:
+
+- 🔐 Cibersegurança  
+- ⚛️ Desenvolvimento Front-end moderno  
+- 🐍 Python para automação e back-end  
 
 ---
 
-> 💡 *"Sempre um aprendiz, buscando transformar código em soluções."*
+> 💡 *"Sempre evoluindo, aprendendo e transformando conhecimento em soluções."*
