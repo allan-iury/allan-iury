@@ -28,22 +28,22 @@ Também trabalho em projetos próprios para desenvolver minhas habilidades prát
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Front-end** | HTML, CSS, JavaScript, React |
-| **Back-end** | Python |
-| **Dados** | Pandas |
-| **Banco de Dados** | SQL (conceitos) |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
+| **Back-end** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Dados** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) |
+| **Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white) *(Conceitos)* |
 | **Segurança & Redes** | Modelo OSI, Portas e Protocolos |
-| **Sistema Operacional** | Linux (uso diário, customização, terminal, SSH) |
+| **OS & Workflow** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=flat&logo=gnome-terminal&logoColor=white) *(Uso diário, SSH, Hyprland)* |
 
 ---
 
 ## 🚀 Atualmente estudando
 
-- ⚛️ React para aplicações modernas  
-- 🛡️ Fundamentos de Cibersegurança  
-- 🐍 Python para automação e back-end  
-- 🌐 APIs e integração de sistemas  
-- 🧠 Estrutura de dados, algoritmos e POO  
+- ⚛️ React para aplicações modernas
+- 🛡️ Fundamentos de Cibersegurança
+- 🐍 Python para automação e back-end
+- 🌐 APIs e integração de sistemas
+- 🧠 Estrutura de dados, algoritmos e POO
 
 ---
 
@@ -51,10 +51,10 @@ Também trabalho em projetos próprios para desenvolver minhas habilidades prát
 
 > ⚠️ Em constante evolução — organizando e subindo projetos no GitHub
 
-- 🧮 Calculadora web  
-- ⏰ Relógio digital com JavaScript  
-- 🎮 Jogo simples em HTML/CSS/JS  
-- 🌐 Portfólio pessoal (landing page)  
+- 🧮 Calculadora web
+- ⏰ Relógio digital com JavaScript
+- 🎮 Jogo simples em HTML/CSS/JS
+- 🌐 Portfólio pessoal (landing page)
 
 📌 Próximos projetos planejados:
 - 🔐 Simulação de vulnerabilidades (segurança básica)
@@ -65,32 +65,32 @@ Também trabalho em projetos próprios para desenvolver minhas habilidades prát
 
 ## 🐧 Linux & Terminal (Diferencial)
 
-- Uso Linux como sistema principal  
-- Experiência com terminal no dia a dia  
-- Gerenciamento de permissões e arquivos  
-- Acesso remoto via SSH  
-- Customização de ambiente (Hyprland)  
+- Uso Linux como sistema principal
+- Experiência com terminal no dia a dia
+- Gerenciamento de permissões e arquivos
+- Acesso remoto via SSH
+- Customização de ambiente (Hyprland)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allan-iury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-iury&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allan-iury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-iury&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=allan-iury&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com?user=allan-iury&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📈 Perfil de Aprendizado
 
-- 📚 Aprendizado contínuo (faculdade + cursos + prática)  
-- 🧠 Forte interesse em teoria e resolução de problemas  
-- ⏳ Dedicado diariamente à área de tecnologia  
+- 📚 Aprendizado contínuo (faculdade + cursos + prática)
+- 🧠 Forte interesse em teoria e resolução de problemas
+- ⏳ Dedicado diariamente à área de tecnologia
 
 ---
 
@@ -98,22 +98,12 @@ Também trabalho em projetos próprios para desenvolver minhas habilidades prát
 
 <p align="left">
   <a href="https://www.linkedin.com/in/allan-iury-mendes-dos-santos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/1ury_m3nd3s/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
----
-
-## 🚀 Em evolução
-
-Atualmente focado em evoluir minhas habilidades em programação, com interesse especial em:
-
-- 🔐 Cibersegurança  
-- ⚛️ Desenvolvimento Front-end moderno  
-- 🐍 Python para automação e back-end  
 
 ---
 
