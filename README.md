@@ -8,10 +8,12 @@ Moro em Oriximiná, PA, e estou em constante aprendizado no mundo do desenvolvim
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Front-end:** HTML5, CSS3, JavaScript (Aprendiz)
-- **Back-end:** Python (Jupyter Notebooks, Scripts de Automação)
-- **OS & Workflow:** CachyOS (Arch Linux) + Hyprland WM
-- **Interesses:** Cybersecurity, Desenvolvimento de Jogos (Godot) e Bioeconomia
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **Back-end** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white) |
+| **OS & Workflow** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-00AEEF?style=flat&logo=linux&logoColor=white) |
+| **Interesses** | ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat&logo=godot-engine&logoColor=blue) ![Bioeconomy](https://img.shields.io/badge/Bioeconomia-4CAF50?style=flat&logo=leaf&logoColor=white) |
 
 ---
 
